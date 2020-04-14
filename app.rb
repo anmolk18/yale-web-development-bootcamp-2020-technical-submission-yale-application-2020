@@ -7,6 +7,8 @@ name = "Anmolpreet Kaur"
 age = 18
 favorite_food = "pizza"
 height_in_inches = 66
+
+taller_than_average
 height_message = 
 
 ## Do not modify below this line!
