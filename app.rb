@@ -9,7 +9,7 @@ favorite_food = "pizza"
 height_in_inches = 66
 
 taller_than_average = height_in_inches > AVERAGE_HEIGHT_IN_INCHES
-height_message = taller_than_average
+height_message = taller_than_average ? 
 
 ## Do not modify below this line!
 
